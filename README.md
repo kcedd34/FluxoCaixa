@@ -3,6 +3,16 @@
 
 Sistema desenvolvido para controlar o fluxo de caixa diário de um comerciante, permitindo o registro de lançamentos (débitos e créditos) e a geração de relatórios consolidados diários.
 
+# Diagrama de Camadas
+
+![image](https://github.com/user-attachments/assets/d063e19f-d586-4372-b281-97bde1039588)
+
+
+# Diagrama de Fluxo
+
+![image](https://github.com/user-attachments/assets/e9680db2-8e42-4ede-a994-a56799a06494)
+
+
 ## 📋 Requisitos de Negócio
 
 - Serviço para controle de lançamentos (débitos e créditos)
