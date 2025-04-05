@@ -3,7 +3,7 @@
 
 Sistema desenvolvido para controlar o fluxo de caixa diário de um comerciante, permitindo o registro de lançamentos (débitos e créditos) e a geração de relatórios consolidados diários.
 
-# Diagrama de Modular
+# Diagrama Modular
 
 ![modular_fluxocaixa](https://github.com/user-attachments/assets/92d34b87-470a-444b-ba2b-3117a01a3a7e)
 
